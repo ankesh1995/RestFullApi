@@ -1,0 +1,43 @@
+[
+    {
+        "name":"N77",
+        "price":40000,
+        "feature":true,
+        "company":"nokia"
+    },
+    {
+        "name":"3110",
+        "price":4000,
+        "feature":true,
+        "company":"nokia"
+    },
+    {
+        "name":"11Pro",
+        "price":40000,
+        "feature":true,
+        "company":"mi"
+    },
+    {
+        "name":"j7prime",
+        "price":40000,
+        "feature":true,
+        "company":"samsung"
+    },
+    {
+        "name":"goldPro",
+        "price":14000,
+        "feature":true,
+        "company":"apple"
+    },{
+        "name":"goldPro",
+        "price":14000,
+        "feature":true,
+        "company":"apple"
+    },{
+        "name":"1400",
+        "price":14000,
+        "feature":true,
+        "company":"dell"
+    }
+
+]
